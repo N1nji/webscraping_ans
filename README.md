@@ -31,11 +31,12 @@ Antes de rodar o projeto, você precisa ter o **Python** e as bibliotecas necess
 
 3. Instale as dependências necessárias:
    ```bash
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
  Ou, se preferir instalar manualmente, você pode rodar:
-  ```bash
-    pip install beautifulsoup4 requests pandas
+    
+    ```bash
+      pip install beautifulsoup4 requests pandas
 
 
--Projeto em Desenvolvimento-
+Em Desenvolvimento - incompleto -
