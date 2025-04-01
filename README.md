@@ -37,3 +37,5 @@ Antes de rodar o projeto, você precisa ter o **Python** e as bibliotecas necess
   ```bash
     pip install beautifulsoup4 requests pandas
 
+
+-Projeto em Desenvolvimento-
